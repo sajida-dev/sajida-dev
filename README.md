@@ -47,8 +47,8 @@ Here are some of the tools and technologies I work with regularly:
 
 ## 📈 GitHub Stats  
 
-![Sajida's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidaJaved&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidaJaved&layout=compact&theme=radical)  
+![Sajida's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajida-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajida-dev&layout=compact&theme=radical)  
 
 ---
 
