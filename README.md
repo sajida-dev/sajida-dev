@@ -4,7 +4,7 @@ Welcome to my GitHub! This is where I bring my ideas to life through code. Wheth
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
 I’m a passionate **Web Developer**, **Mobile App Enthusiast**, **Competitive Programmer**, and an aspiring **Data Scientist**. My journey in tech has been fueled by curiosity and the desire to create meaningful solutions.  
 
@@ -18,7 +18,7 @@ I’m always eager to learn, experiment, and collaborate on new ideas.
 
 ---
 
-## 🛠️ My Toolbox  
+## My Toolbox  
 
 Here are some of the tools and technologies I work with regularly:  
 
@@ -44,17 +44,17 @@ Here are some of the tools and technologies I work with regularly:
 
 ---
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 
 ![Sajida's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajida-dev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajida-dev&layout=compact&theme=radical)  
 
 ---
 
-## 🤝 Let’s Connect  
+## Let’s Connect  
 
 I’m always open to new opportunities and collaborations. Feel free to reach out:  
 - **LinkedIn:** [Sajida Javed](https://www.linkedin.com/in/sajida-javed-39690b278/)  
 - **Email:** [SajidaJaved604@gmail.com](mailto:SajidaJaved604@gmail.com)  
 
-Let’s create something amazing together! 😊  
+Let’s create something amazing together!  
